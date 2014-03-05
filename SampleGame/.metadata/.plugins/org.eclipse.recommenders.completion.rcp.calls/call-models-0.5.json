@@ -1,0 +1,22 @@
+{
+  "C:\\Users\\Trushitha\\Downloads\\Leap_Developer_Kit_0.8.0_5304_Windows\\LeapSDK\\lib\\LeapJava.jar": {
+    "location": "C:\\Users\\Trushitha\\Downloads\\Leap_Developer_Kit_0.8.0_5304_Windows\\LeapSDK\\lib\\LeapJava.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Users\\Trushitha\\Downloads\\Leap_Developer_Kit_0.8.0_5304_Windows\\LeapSDK\\lib\\LeapJava.jar\u0027. Neither fingerprint \u0027d7583279bd77b5b0020343211bf15b7af5bdb170\u0027 nor symbolic name \u0027LeapJava\u0027 are known."
+  },
+  "C:\\Program Files\\Java\\jre7\\lib\\rt.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\rt.jar",
+    "status": "RESOLVED"
+  },
+  "C:\\Users\\Trushitha\\SampleGame\\samplegame\\src": {
+    "location": "C:\\Users\\Trushitha\\SampleGame\\samplegame\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\Trushitha\\SampleGame\\samplegame\\src\u0027. Skipped."
+  },
+  "C:\\Users\\Trushitha\\Downloads\\slick\\lib\\slick.jar": {
+    "location": "C:\\Users\\Trushitha\\Downloads\\slick\\lib\\slick.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Users\\Trushitha\\Downloads\\slick\\lib\\slick.jar\u0027. Neither fingerprint \u0027d59834341d858e866ba52e11ac1d18db5be940d0\u0027 nor symbolic name \u0027slick\u0027 are known."
+  }
+}
